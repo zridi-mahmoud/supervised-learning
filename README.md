@@ -1,2 +1,2 @@
 # supervised-learning
-some supervised learning algorithms with sklearn
+## some supervised learning algorithms with sklearn
